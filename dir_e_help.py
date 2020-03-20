@@ -9,4 +9,6 @@
     para determinado tipo de dado ou variavel.
     exemplo: help(tipo de dado/variavel.propriedade)
 
+
+
 """
