@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e75bb42f-346b-40dd-9e7f-2da3771bf33c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/exercicios01/01-leia_inteiro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios01/02-leia_real.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios01/03-some_tres_inteiros.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios01/04-quadrado_de_real.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios01/05-conversao_temperatura.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios01/06-metros_por_segundos.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,8 +37,8 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
-  <component name="RunManager" selected="Python.recebendo_dados_usuario">
-    <configuration name="pep8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.06-metros_por_segundos">
+    <configuration name="02-leia_real" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="guppe" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -40,11 +46,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercicios01" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pep8.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicios01/02-leia_real.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -53,7 +59,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="recebendo_dados_usuario" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03-some_tres_inteiros" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="guppe" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -61,11 +67,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercicios01" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/recebendo_dados_usuario.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Leonardo Alves\PycharmProjects\guppe\exercicios01\03-some_tres_inteiros.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -74,7 +80,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="teste" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="04-quadrado_de_real" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="guppe" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -82,11 +88,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercicios01" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/teste.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicios01/04-quadrado_de_real.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="05-conversao_temperatura" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="guppe" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercicios01" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Leonardo Alves\PycharmProjects\guppe\exercicios01\05-conversao_temperatura.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="06-metros_por_segundos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="guppe" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercicios01" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicios01/06-metros_por_segundos.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -97,9 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.recebendo_dados_usuario" />
-        <item itemvalue="Python.pep8" />
-        <item itemvalue="Python.teste" />
+        <item itemvalue="Python.06-metros_por_segundos" />
+        <item itemvalue="Python.05-conversao_temperatura" />
+        <item itemvalue="Python.04-quadrado_de_real" />
+        <item itemvalue="Python.03-some_tres_inteiros" />
+        <item itemvalue="Python.02-leia_real" />
       </list>
     </recent_temporary>
   </component>
@@ -135,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584676000329</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="dir e help">
+      <created>1584837392354</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1584837392355</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -161,38 +218,38 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="22" key="#Notifications/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1584675954256" />
-    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1584675999311">
+    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1584837390979">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1584675999311" />
+    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1584837390979" />
     <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1584676097313">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1584676097313" />
-    <state width="1345" height="163" key="GridCell.Tab.0.bottom" timestamp="1584837364126">
+    <state width="1345" height="163" key="GridCell.Tab.0.bottom" timestamp="1584850107119">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1584837364126" />
-    <state width="1345" height="163" key="GridCell.Tab.0.center" timestamp="1584837364125">
+    <state width="1345" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1584850107119" />
+    <state width="1345" height="163" key="GridCell.Tab.0.center" timestamp="1584850107118">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="163" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1584837364125" />
-    <state width="1345" height="163" key="GridCell.Tab.0.left" timestamp="1584837364125">
+    <state width="1345" height="163" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1584850107118" />
+    <state width="1345" height="163" key="GridCell.Tab.0.left" timestamp="1584850107118">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="163" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1584837364125" />
-    <state width="1345" height="163" key="GridCell.Tab.0.right" timestamp="1584837364126">
+    <state width="1345" height="163" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1584850107118" />
+    <state width="1345" height="163" key="GridCell.Tab.0.right" timestamp="1584850107118">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="163" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1584837364126" />
+    <state width="1345" height="163" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1584850107118" />
     <state x="184" y="6" key="SettingsEditor" timestamp="1584676050046">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="6" key="SettingsEditor/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1584676050046" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1584676518058">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1584837406107">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1584676518058" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1584837406107" />
     <state x="384" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1584833540490">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -201,9 +258,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="399" y="155" key="git4idea.merge.GitPullDialog/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1584675882172" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1584675095533">
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1584849178636">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1584675095533" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1584849178636" />
   </component>
 </project>
